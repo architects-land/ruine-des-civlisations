@@ -1,0 +1,13 @@
+name = "Day Counter Enhanced"
+filename = "daycounterenhanced-1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PtE4487T/versions/cClGkVTc/daycounterenhanced-1.3.1.jar"
+hash-format = "sha512"
+hash = "a2e0a2b8766774aea5c14f9cbfaea99d6636897bd820a7464cdfbf261e1241e3616127907731445e393277fcb1b5f8521ad50c521179e998f17998c542c9179a"
+
+[update]
+[update.modrinth]
+mod-id = "PtE4487T"
+version = "cClGkVTc"

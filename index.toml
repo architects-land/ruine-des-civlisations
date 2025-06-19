@@ -9,6 +9,21 @@ file = "README.md"
 hash = "222831c4067acc3a9188fd11f590aebced3c27eb6aac476cad83424699a533e5"
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
+metafile = true
+
+[[files]]
+file = "mods/day-counter-enhanced.pw.toml"
+hash = "674a46384f39893cc95c59a10b35c88a68293a10bac794080cd11b9f3b8cb221"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "03ff3271a6588784ae296597f50de292f9cb416ac9b1391e5e0394bbbd3f87f3"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
 metafile = true
@@ -24,6 +39,21 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "e3ed2c112bfe0abbc4d2c52c7d4c2086fe136e133784775c2f5a43d8f899868c"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "65d542a720b52feeaab878439636d8ca361ccc512a054e96696e4972b6ecfd8f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
 metafile = true
@@ -31,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6cc7fdbe5cf08f29ec6628c945842eea6efb41e9e82c21f24c135175fcd62132"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
 metafile = true
 
 [[files]]
