@@ -9,8 +9,28 @@ file = "README.md"
 hash = "222831c4067acc3a9188fd11f590aebced3c27eb6aac476cad83424699a533e5"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7bc565a4a7de36989eb1e1c852c469b726f89aab2a292e0d954a217877c33b61"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "23390454f494dbb66977daa53d9fd524c063be3763198976625fb301707160e4"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
+metafile = true
+
+[[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
@@ -26,6 +46,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
 metafile = true
 
 [[files]]
@@ -59,6 +84,16 @@ hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "1d19237dc3a66d87a018bafb3f69e701bcba8ba1fdef71d9a5f17222c15a3120"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "ad167f92c36bf4b7e76baa4fdddf98e4e6f296a1f51730a82f67bb8406b0eddb"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6cc7fdbe5cf08f29ec6628c945842eea6efb41e9e82c21f24c135175fcd62132"
 metafile = true
@@ -69,11 +104,26 @@ hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "de11648956fde5c16e81ce9e5b6e80448f76c0bfbb39fe9fd45383cebc98b2e2"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c7daa151af23e7f93b5635c0b2635f1e44cef77f2ca64fdbd14889e792d1b86b"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "b48f383658b3d564a166cf6a26f856b5dd2d2aa61995f7a9beb64e72cd716716"
 metafile = true
