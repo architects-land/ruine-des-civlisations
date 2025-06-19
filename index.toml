@@ -39,6 +39,46 @@ hash = "674a46384f39893cc95c59a10b35c88a68293a10bac794080cd11b9f3b8cb221"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "8ae40badf720f28bd30d858ca8ee36796d5de3d756a09c2d68ad125310dc0e86"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "9dfd0fed96b96a2590b14acdab7cc7c7084c6c2b87358a9392cbe084cc090d82"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "2d21022c8b1b8bff8885fa88b5fed9393c710cdd67326a57ad65f8e6663ebe98"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "8cdd8809da23ab4c3c4dce1b4cef1b64180d0155c4dc3f8155090cee07130e23"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "81afd66aeeb3b36b1db6557dce2abb8e6e55f5d07e6a0f58e39a41578507a114"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "642f5664fc095bd7ebfc3ad78089c7a2b15f32722fe71d1836c0a041ca368c0a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "3e2d4f8727725e119c2839bfd063e10e7f6ef3ce2a8ea23322dff82513f90aab"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "aca88f77b02e09ab6335cd73cc0ec7597f7b17eee673d0c2f27439a7a7e7468d"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "03ff3271a6588784ae296597f50de292f9cb416ac9b1391e5e0394bbbd3f87f3"
 metafile = true
@@ -61,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "1eca834248d3420fd44ffb6cc17194c94c974e331e324f579ed5ae9a649a2526"
 metafile = true
 
 [[files]]
