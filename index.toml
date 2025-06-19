@@ -7,3 +7,38 @@ hash = "4b31e325a7b0ef4bd753e37ffa02288cf5a8f5df924d9030ef58b20140c4d946"
 [[files]]
 file = "README.md"
 hash = "222831c4067acc3a9188fd11f590aebced3c27eb6aac476cad83424699a533e5"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "c9babfbb0db58f9edfc38666af8ef4ce24fe0cd0594d3c421bb51410fb6c3fa2"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6cc7fdbe5cf08f29ec6628c945842eea6efb41e9e82c21f24c135175fcd62132"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+metafile = true
