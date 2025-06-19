@@ -1,0 +1,13 @@
+name = "Ruine Des Civilisations"
+author = "Anhgelus Morhtuuzh"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "00910cf796ed98e349af050ee911f90bd2b886b43c34a8bb589c34d6faf11940"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.6"
