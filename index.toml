@@ -189,6 +189,11 @@ hash = "de11648956fde5c16e81ce9e5b6e80448f76c0bfbb39fe9fd45383cebc98b2e2"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "b98e9fd453261dc6aafd0d479444655e765f72d34cf1796f713e236ad132e73b"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2fc3c6f23ef2be97f17c1d8c525895909e88af1fbd8d04136e58e6dc67a25b4c"
 metafile = true
