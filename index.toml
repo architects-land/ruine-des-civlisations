@@ -9,6 +9,11 @@ file = "README.md"
 hash = "222831c4067acc3a9188fd11f590aebced3c27eb6aac476cad83424699a533e5"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "1420a131db32fa1b7c265f482a1cc7e4b70a6d748c8f4dcddfc6b3ae6dc31a28"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7bc565a4a7de36989eb1e1c852c469b726f89aab2a292e0d954a217877c33b61"
 metafile = true
@@ -21,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
 metafile = true
 
 [[files]]
@@ -84,6 +94,16 @@ hash = "03ff3271a6588784ae296597f50de292f9cb416ac9b1391e5e0394bbbd3f87f3"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b001c3a1852a1293e83d32fb0850c4da6aaf2ef100b5140cb1ce7d2885b178fd"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "f4d7523b2a6d6c167ecf2e19964898f1fcdf060a15553b05fa1d5dd41a56c373"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
 metafile = true
@@ -101,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "33860b488f34f31c13aa021401410d6273275217f086e2e817908dca706ed887"
 metafile = true
 
 [[files]]
@@ -140,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6cc7fdbe5cf08f29ec6628c945842eea6efb41e9e82c21f24c135175fcd62132"
+hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
 metafile = true
 
 [[files]]
@@ -154,6 +179,11 @@ hash = "de11648956fde5c16e81ce9e5b6e80448f76c0bfbb39fe9fd45383cebc98b2e2"
 metafile = true
 
 [[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2fc3c6f23ef2be97f17c1d8c525895909e88af1fbd8d04136e58e6dc67a25b4c"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
@@ -164,6 +194,11 @@ hash = "c7daa151af23e7f93b5635c0b2635f1e44cef77f2ca64fdbd14889e792d1b86b"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "9ab7a3889a5406ccc111f464dc998e889c9801f0b1b4017de8830a39c44a6a61"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
 metafile = true
@@ -171,4 +206,14 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "b48f383658b3d564a166cf6a26f856b5dd2d2aa61995f7a9beb64e72cd716716"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "1cfdcc8191e43fc4f8d0f63a165cd648f2fa493cfd08e194cb8b52ad08a70180"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
 metafile = true
