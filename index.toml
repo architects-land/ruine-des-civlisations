@@ -6,7 +6,7 @@ hash = "4b31e325a7b0ef4bd753e37ffa02288cf5a8f5df924d9030ef58b20140c4d946"
 
 [[files]]
 file = "README.md"
-hash = "4737242c84bd0cff1992c03b92bac8e51d379b8615a2fb982557f910811c7091"
+hash = "c467fdde5c5662bdc98d105f16ce3d429f58cc3ce67124bb75491271b54b8add"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -71,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
 hash = "9dfd0fed96b96a2590b14acdab7cc7c7084c6c2b87358a9392cbe084cc090d82"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-end-castle-standalone.pw.toml"
+hash = "5783a3100ae692f69a09bf71cb7fa43bb6942480b05351aec9b1d023e58f8ef6"
 metafile = true
 
 [[files]]
@@ -162,6 +167,10 @@ metafile = true
 file = "mods/lambdynamiclights.pw.toml"
 hash = "65d542a720b52feeaab878439636d8ca361ccc512a054e96696e4972b6ecfd8f"
 metafile = true
+
+[[files]]
+file = "mods/larion-fabric-1.21.1-4.3.0.jar"
+hash = "e69d8763126c7accbfb6779a11f7fea763156cda9377924a3f689452c69e282f"
 
 [[files]]
 file = "mods/lithium.pw.toml"
