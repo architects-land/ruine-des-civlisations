@@ -14,6 +14,16 @@ hash = "53628a124f677dc17824a6bcdba9ae5e887297c39d543363648522be2bedef20"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether-height.pw.toml"
+hash = "9fb0bb83d8818d33f326b68c49d7a5d26c3005b8e6893c16bf044e95e3ac59d5"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "293199de1076b8d4ff748f7c473499ed62042ace7f6bb7ccd58a1c87379b95a3"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7bc565a4a7de36989eb1e1c852c469b726f89aab2a292e0d954a217877c33b61"
 metafile = true
