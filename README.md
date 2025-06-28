@@ -15,4 +15,3 @@ The modpack does not redistribute these.
 
 This modpack is licensed under the MIT license, but every jar file may not follow this license.
 
-

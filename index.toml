@@ -6,21 +6,11 @@ hash = "4b31e325a7b0ef4bd753e37ffa02288cf5a8f5df924d9030ef58b20140c4d946"
 
 [[files]]
 file = "README.md"
-hash = "222831c4067acc3a9188fd11f590aebced3c27eb6aac476cad83424699a533e5"
+hash = "4737242c84bd0cff1992c03b92bac8e51d379b8615a2fb982557f910811c7091"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "1420a131db32fa1b7c265f482a1cc7e4b70a6d748c8f4dcddfc6b3ae6dc31a28"
-metafile = true
-
-[[files]]
-file = "mods/amplified-nether-height.pw.toml"
-hash = "9fb0bb83d8818d33f326b68c49d7a5d26c3005b8e6893c16bf044e95e3ac59d5"
-metafile = true
-
-[[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "293199de1076b8d4ff748f7c473499ed62042ace7f6bb7ccd58a1c87379b95a3"
+hash = "53628a124f677dc17824a6bcdba9ae5e887297c39d543363648522be2bedef20"
 metafile = true
 
 [[files]]
@@ -35,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
+hash = "30e0daa7defb31107a9c24fa28c2de92c550fc9de4b76ab3a35c0bcce8557e6c"
 metafile = true
 
 [[files]]
@@ -44,8 +34,13 @@ hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "703c88f1daf1eb94217ed4e084413416746ea8eb99204282fd64228ed44e8320"
+metafile = true
+
+[[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
+hash = "0e7e531cc4fe9b6b35e2303b1c5206f15b604e81fce789a14c5c1d9160b68f16"
 metafile = true
 
 [[files]]
@@ -100,22 +95,22 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "03ff3271a6588784ae296597f50de292f9cb416ac9b1391e5e0394bbbd3f87f3"
+hash = "efd649e900e1141cb992ca4956bde9a91ed96021f54a6710cef00eae580a58b5"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b001c3a1852a1293e83d32fb0850c4da6aaf2ef100b5140cb1ce7d2885b178fd"
+hash = "63e46d72bd154991572f2632ae4343513f82b29327d54aead53a31bc344ff629"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f4d7523b2a6d6c167ecf2e19964898f1fcdf060a15553b05fa1d5dd41a56c373"
+hash = "444e4280b980a5b3191d01ed1ac871b713957055e13542aa52739b822ea6d01f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
+hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
 metafile = true
 
 [[files]]
@@ -135,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "33860b488f34f31c13aa021401410d6273275217f086e2e817908dca706ed887"
+hash = "cee7b9a65f1d8625f9c103486e8b91edf6bb03b36ab2430fd927ec0d687ce8db"
 metafile = true
 
 [[files]]
@@ -145,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e3ed2c112bfe0abbc4d2c52c7d4c2086fe136e133784775c2f5a43d8f899868c"
+hash = "20cf3adc13022f6f0a7ea317c511964214e552cb33fe0f231fff88ec4a119a58"
 metafile = true
 
 [[files]]
@@ -175,17 +170,32 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
+hash = "7d8c9ad8742c0900f93816a4be1770b3cac156364b838abfcf62df9c8c498b00"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
+hash = "83ebba673c01a30e43c70449ff15803d9e318383c8a3b9b9c1957828e3987761"
 metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "de11648956fde5c16e81ce9e5b6e80448f76c0bfbb39fe9fd45383cebc98b2e2"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "bc196e02ff6f1f01924f732f9635c26c8a9a9dc144d98dbe6da9ed3859b2ddf5"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "4e1dd52be6541751029a370a02c83cc663a8be8b62187a4aa273ca02a154fc37"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "3ffb9019227e25cad6c8faeae3184c9bc9207ba1260dc465f6781e9b65dcc35d"
 metafile = true
 
 [[files]]
@@ -195,27 +205,32 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "2fc3c6f23ef2be97f17c1d8c525895909e88af1fbd8d04136e58e6dc67a25b4c"
+hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+hash = "6f0b999f5d8c09c04b95f981a808aac12a06eb8e918897301a6d29524ed63ce2"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c7daa151af23e7f93b5635c0b2635f1e44cef77f2ca64fdbd14889e792d1b86b"
+hash = "4f55b1a2ba7045c22027af34c2ea7850724c54dcd030471fdaaae4003f624053"
+metafile = true
+
+[[files]]
+file = "mods/sneaky-player-names.pw.toml"
+hash = "1d21b8de920102f42b56397cef45ac44eb4c1adf2bc8a572099183da723c8bbf"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "9ab7a3889a5406ccc111f464dc998e889c9801f0b1b4017de8830a39c44a6a61"
+hash = "b5a9f0658aa3309e5589a710c82f114bb72a374a3324779348322b0bc5ca1a82"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+hash = "bb20efd154d4f9c72fe84138ff87b34d324d5441da13d75ac58ab5ff9b8891bd"
 metafile = true
 
 [[files]]
