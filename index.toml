@@ -6,7 +6,7 @@ hash = "4b31e325a7b0ef4bd753e37ffa02288cf5a8f5df924d9030ef58b20140c4d946"
 
 [[files]]
 file = "README.md"
-hash = "c467fdde5c5662bdc98d105f16ce3d429f58cc3ce67124bb75491271b54b8add"
+hash = "16ecea7f9f66be6ca0e9ff3f8eea182cfbd24881cf4d9562baaf4b6625e5163c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -64,6 +64,11 @@ hash = "674a46384f39893cc95c59a10b35c88a68293a10bac794080cd11b9f3b8cb221"
 metafile = true
 
 [[files]]
+file = "mods/difficulty-death-scaler.pw.toml"
+hash = "ee4c514eb33577c85d3716235e9b0a5bdc12e52ac9d6b84125b66f9ef121594a"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "8ae40badf720f28bd30d858ca8ee36796d5de3d756a09c2d68ad125310dc0e86"
 metafile = true
@@ -71,11 +76,6 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
 hash = "9dfd0fed96b96a2590b14acdab7cc7c7084c6c2b87358a9392cbe084cc090d82"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-end-castle-standalone.pw.toml"
-hash = "5783a3100ae692f69a09bf71cb7fa43bb6942480b05351aec9b1d023e58f8ef6"
 metafile = true
 
 [[files]]
