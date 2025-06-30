@@ -14,5 +14,8 @@ The modpack uses a modified version of *Larion's World Generation*: it allows ca
 The modpack also uses a modified version of *Dungeons and Taverns*: we removed custom enchantments
 because it is definitely not vanilla friendly. (Thanks [SuperNoobYT](https://github.com/SuperNoobYT).)
 
+A jar file of *Distant Horizons*'s preview version is present and will be replaced by their Modrinth 
+release as soon as they release the beta.
+
 This modpack is licensed under the MIT license, but every jar file may not follow this license.
 
