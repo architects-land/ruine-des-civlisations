@@ -6,12 +6,20 @@ hash = "4b31e325a7b0ef4bd753e37ffa02288cf5a8f5df924d9030ef58b20140c4d946"
 
 [[files]]
 file = "README.md"
-hash = "16ecea7f9f66be6ca0e9ff3f8eea182cfbd24881cf4d9562baaf4b6625e5163c"
+hash = "84f8d28ac1f0cf2905decbbd52531ac258e9b41479e015f4dc1ca7e1f6c7dcfe"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "e9404df2edaea07767e9a2f3aa5153da1350723802333376b4ecdaee99b4045e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "53628a124f677dc17824a6bcdba9ae5e887297c39d543363648522be2bedef20"
 metafile = true
+
+[[files]]
+file = "mods/DistantHorizons-2.3.3-b-RC1-1.21.6-fabric-neoforge.jar"
+hash = "4cc3b7a743232da99e318107a72ad764b71412fbff3c0cfeedcd26b838e6248e"
 
 [[files]]
 file = "mods/amplified-nether-height.pw.toml"
@@ -102,6 +110,10 @@ metafile = true
 file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
 hash = "aca88f77b02e09ab6335cd73cc0ec7597f7b17eee673d0c2f27439a7a7e7468d"
 metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-v4.7.3_[nofun].jar"
+hash = "fa950d9d69a2b4860e3ff7c2e8c7af4d288dc4ec5dd6a7564c08d5051d2c72e2"
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
