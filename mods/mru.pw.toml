@@ -1,0 +1,13 @@
+name = "M.R.U"
+filename = "mru-1.0.18+1.21.6+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/hfBpv7ad/mru-1.0.18%2B1.21.6%2Bfabric.jar"
+hash-format = "sha512"
+hash = "d91718e5170304a1b59a30001b2d7330cee2d73f647c10092cef08692e2ebf043091a3e6854dd9fff2462041b5ecb55cdedf180f16c15020cabf350de2df6ff2"
+
+[update]
+[update.modrinth]
+mod-id = "SNVQ2c0g"
+version = "hfBpv7ad"

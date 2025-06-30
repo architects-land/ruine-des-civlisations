@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "0e7e531cc4fe9b6b35e2303b1c5206f15b604e81fce789a14c5c1d9160b68f16"
+hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
 metafile = true
 
 [[files]]
@@ -193,8 +193,18 @@ hash = "7d8c9ad8742c0900f93816a4be1770b3cac156364b838abfcf62df9c8c498b00"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "83ebba673c01a30e43c70449ff15803d9e318383c8a3b9b9c1957828e3987761"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "a42cc19937b5fb6fbc25dc1f612ef3983fdec7bc6c0540baec2430bb3dce0c3c"
 metafile = true
 
 [[files]]
@@ -250,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "bb20efd154d4f9c72fe84138ff87b34d324d5441da13d75ac58ab5ff9b8891bd"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "ffb24dc714cb9c44bd2a6ee0bf0c969757cbafcc2c84cfcf580e7235b515d571"
 metafile = true
 
 [[files]]
