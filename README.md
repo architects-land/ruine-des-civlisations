@@ -11,8 +11,11 @@ Its specificity is the huge modification of the generation and the difficulty mo
 
 The modpack uses a modified version of *Larion's World Generation*: it allows caves in the surface.
 
-We wanted to add the main *Dungeons and Taverns* mod, but custom enchantments is definitly not 
+We wanted to add the main *Dungeons and Taverns* mod, but custom enchantments are definitely not 
 vanilla friendly.
+
+A jar file of *Distant Horizons*'s preview version is present and will be replaced by their Modrinth 
+release as soon as they release the beta.
 
 This modpack is licensed under the MIT license, but every jar file may not follow this license.
 
